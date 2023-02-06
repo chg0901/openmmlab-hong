@@ -4,5 +4,5 @@ https://drive.google.com/file/d/1hKHJL4h-KFrjmKVZ-Uzh5mE-UN8eoPLu/view?usp=shari
 
 ------------------------------------------
 environment
-mmcls 1.0.0rc3
+mmcls 1.0.0rc5
 mmengine 0.5.0
