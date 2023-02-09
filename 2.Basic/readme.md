@@ -28,9 +28,13 @@ PyTorch: 1.6.0
 
 # Zhihu Link
 
+
+
+[OpenMMLab 实战营打卡 - 【第 5 课】语义分割与MMSegmentation - 知乎](https://zhuanlan.zhihu.com/p/604931171?)
+
+[MMDetection3.x【OpenMMLab 实战营】 - 知乎](https://zhuanlan.zhihu.com/p/604488260?)
+
 [OpenMMLab AI 实战营 - 知乎](https://www.zhihu.com/column/c_1605019904180232192)
-
-
 
 
 
