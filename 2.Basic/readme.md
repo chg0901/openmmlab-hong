@@ -1,10 +1,10 @@
-# training weight file
+# Training weight file
 [latest.pth(google drive)](https://drive.google.com/file/d/13oa80uTYgj0RfjkEqqBkr9iPE-_H8kDe/view?usp=sharing)
 
 # [Project JupyterNotebook with nbviewer](https://nbviewer.org/github/chg0901/openmmlab-hong/blob/main/2.Basic/balloon_hong.ipynb)
 [JupyterNotebook balloon_hong.ipynb](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/balloon_hong.ipynb)
 
-## result with images
+# Results with images
 ![picture1](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon/show/16335852991_f55de7958d_k.jpg)
 ![picture2](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon/show/24631331976_defa3bb61f_k.jpg)
 ![picture3](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon/show/3825919971_93fb1ec581_b.jpg)
@@ -12,7 +12,7 @@
 
 
 ------------------------------------------
-# environment
+# Environment
 ```
 TorchVision: 0.7.0
 OpenCV: 4.7.0
@@ -34,8 +34,11 @@ PyTorch: 1.6.0
 ## Other details are shown in the jupyter notebook
 
 [训练模型的配置文件 mask_rcnn_r50_fpn_2x_coco_balloon.py ](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/mask_rcnn_r50_fpn_2x_coco_balloon.py)
+
 [训练好的模型文件，latest.pth, google drive](https://drive.google.com/file/d/13oa80uTYgj0RfjkEqqBkr9iPE-_H8kDe/view?usp=sharing)
+
 [特效制作后的视频文件  result.mp4](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/result.mp4)
+
 [log文件夹](https://github.com/chg0901/openmmlab-hong/tree/main/2.Basic/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon)
 
 [JupyterNotebook balloon_hong.ipynb](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/balloon_hong.ipynb)
@@ -45,6 +48,7 @@ PyTorch: 1.6.0
 [生成的COCO数据集json文件： train.json](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/train.json)   [val.json](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/val.json)
 
 [测试集预测图片](https://github.com/chg0901/openmmlab-hong/tree/main/2.Basic/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon/show)
+
 [测试视频制作python文件 video.py](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/video.py)
 
 
