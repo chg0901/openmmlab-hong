@@ -6,7 +6,6 @@
 
 # Results
 
-
 |   bbox_mAP  | bbox_mAP_50 | bbox_mAP_75 |  bbox_mAP_s |  bbox_mAP_m |  bbox_mAP_l |
 | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
 |    0.6838   |   0.7841    |    0.7477   |    0.0000   |    0.3219   |    0.8186   |
@@ -21,7 +20,13 @@ bbox_mAP_copypaste: 0.6838 0.7841 0.7477 0.0000 0.3219 0.8186,
 segm_mAP_copypaste: 0.6678 0.7603 0.7137 0.0000 0.2712 0.8007
 ```
 
-# Results with images
+# Results with screenshots and Gifs of the test video
+![Unprocessed screenshot ](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/before.png)
+![processed screenshot ](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/after.png)
+![processed Gif 1](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/result%5B00_00_01--00_00_06%5D.gif)
+![processed Gif 2](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/result%5B00_00_00--00_00_06%5D2.gif)
+
+# Results with test images
 ![picture1](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon/show/16335852991_f55de7958d_k.jpg)
 ![picture2](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon/show/24631331976_defa3bb61f_k.jpg)
 ![picture3](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon/show/3825919971_93fb1ec581_b.jpg)
