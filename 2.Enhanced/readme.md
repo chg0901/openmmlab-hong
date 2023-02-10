@@ -150,7 +150,6 @@ bbox_mAP_copypaste: 0.0592 -1.0000 -1.0000 0.0576 0.1108 -1.0000
 
 [OpenMMLab 实战营打卡 - 【第 5 课】MMDetection3.x - 知乎](https://zhuanlan.zhihu.com/p/604488260?)
 
-
 [OpenMMLab AI 实战营 - 知乎](https://www.zhihu.com/column/c_1605019904180232192)
 
 
