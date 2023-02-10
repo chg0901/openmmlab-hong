@@ -1,7 +1,11 @@
 # Training weight file
 [epoch_100.pth](https://github.com/chg0901/openmmlab-hong/blob/main/1.Basic/epoch_100.pth)
+
 # Config file
-[Config file: resnet18_b16_flower.py](https://github.com/chg0901/openmmlab-hong/blob/main/1.Basic/resnet18_b16_flower.py)
+
+[resnet18_b16_flower.py](https://github.com/chg0901/openmmlab-hong/blob/main/1.Basic/resnet18_b16_flower.py)
+
+
 ------------------------------------------
 # environment
 ```
@@ -12,7 +16,7 @@ mmcv     2.0.0rc3
 
 ------------------------------------------
 # model: resnet18
-load_from ='./checkpoints/resnet18_batch256_imagenet_20200708-34ab8f90.pth' 
+`load_from ='./resnet18_batch256_imagenet_20200708-34ab8f90.pth' `
 
 ## training commend
 ```
