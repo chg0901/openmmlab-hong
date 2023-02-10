@@ -4,6 +4,23 @@
 # [Project JupyterNotebook with nbviewer](https://nbviewer.org/github/chg0901/openmmlab-hong/blob/main/2.Basic/balloon_hong.ipynb)
 [JupyterNotebook balloon_hong.ipynb](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/balloon_hong.ipynb)
 
+# Results
+
+
+    | bbox_mAP | bbox_mAP_50 | bbox_mAP_75 | bbox_mAP_s | bbox_mAP_m | bbox_mAP_l |
+    | :------: | :---------: | :---------: | :--------: | :--------: | :--------: |
+    |  0.6838  |   0.7841    |    0.7477   |   0.0000   |   0.3219   |   0.8186   |
+    
+    | segm_mAP | segm_mAP_50 | segm_mAP_75 | segm_mAP_s | segm_mAP_m | segm_mAP_l |
+    | :------: | :---------: | :---------: | :--------: | :--------: | :--------: |
+    |  0.6678  |   0.7603    |    0.7137   |   0.0000   |   0.2712   |   0.8007   |
+    
+    
+```
+bbox_mAP_copypaste: 0.6838 0.7841 0.7477 0.0000 0.3219 0.8186, 
+segm_mAP_copypaste: 0.6678 0.7603 0.7137 0.0000 0.2712 0.8007
+```
+
 # Results with images
 ![picture1](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon/show/16335852991_f55de7958d_k.jpg)
 ![picture2](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon/show/24631331976_defa3bb61f_k.jpg)
