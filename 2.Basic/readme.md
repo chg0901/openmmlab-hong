@@ -47,7 +47,7 @@ PyTorch: 1.6.0
 
 [生成的COCO数据集json文件： train.json](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/train.json)   [val.json](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/val.json)
 
-[测试集预测图片](https://github.com/chg0901/openmmlab-hong/tree/main/2.Basic/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon/show)
+[测试集预测图片文件夹](https://github.com/chg0901/openmmlab-hong/tree/main/2.Basic/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon/show)
 
 [测试视频制作python文件 video.py](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/video.py)
 
