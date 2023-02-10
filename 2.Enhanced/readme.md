@@ -7,17 +7,24 @@
 [训练日志文件 None.log.json](https://github.com/chg0901/openmmlab-hong/blob/main/2.Enhanced/None.log.json)
 
 
-#### Results with screenshots and Gifs of the test video
+#### Results with videos and screenshots
 ![Unprocessed video ](https://github.com/chg0901/openmmlab-hong/blob/main/2.Enhanced/57906_000718_Endzone.mp4)
 
 ![processed video](https://github.com/chg0901/openmmlab-hong/blob/main/2.Enhanced/57906_000718_Endzone_fps60.mp4)
 
+![Unprocessed screenshoot](https://github.com/chg0901/openmmlab-hong/blob/main/2.Enhanced/%E6%88%AA%E5%9B%BE%202023-02-11%2005-06-48.png)
+
+![processed screenshoot](https://github.com/chg0901/openmmlab-hong/blob/main/2.Enhanced/%E6%88%AA%E5%9B%BE%202023-02-11%2005-07-37.png)
 
 
 # [Project JupyterNotebook with nbviewer](https://nbviewer.org/github/chg0901/openmmlab-hong/blob/main/2.Enhanced/mmdet-cascadercnn-helmet-detection-for-beginners.ipynb)
 [mmdet-cascadercnn-helmet-detection-for-beginners.ipynb](https://github.com/chg0901/openmmlab-hong/blob/main/2.Enhanced/mmdet-cascadercnn-helmet-detection-for-beginners.ipynb)
 
-This [notebook](https://www.kaggle.com/code/chg0901/mmdet-cascadercnn-helmet-detection-for-beginners/edit) is based on the [notebook](https://www.kaggle.com/code/eneszvo/mmdet-cascadercnn-helmet-detection-for-beginners/notebook)
+This [notebook](https://www.kaggle.com/code/chg0901/mmdet-cascadercnn-helmet-detection-for-beginners/edit) is based on the notebook in this [link](https://www.kaggle.com/code/eneszvo/mmdet-cascadercnn-helmet-detection-for-beginners/notebook)
+
+##### [Data and Task](https://www.kaggle.com/competitions/nfl-health-and-safety-helmet-assignment%20%20%20)
+`In this competition, you are tasked with assigning the correct player from game footage. Each play has two associated videos, showing a sideline and endzone view, and the videos are aligned so that frames correspond between the videos. `
+##### Model: CascadeRCNN
 
 I use this notebook to learn how to use jupyter notebook to modify the model config file.
 
