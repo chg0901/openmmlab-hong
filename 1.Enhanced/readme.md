@@ -1,9 +1,9 @@
-# training weight file
+# Training weight file
 [epoch_200.pth(google drive)](https://drive.google.com/file/d/1hKHJL4h-KFrjmKVZ-Uzh5mE-UN8eoPLu/view?usp=sharing)
 
 
 ------------------------------------------
-# environment
+# Environment
 ```
 mmcls    0.0.0rc5
 mmengine 0.5.0
@@ -11,10 +11,10 @@ mmcv     2.0.0rc3
 ```
 
 ------------------------------------------
-# model: resnet18
-load_from ='./checkpoints/resnet18_batch256_imagenet_20200708-34ab8f90.pth' 
+# Model: resnet18
+`load_from ='./resnet18_batch256_imagenet_20200708-34ab8f90.pth' `
 
-## training commend
+## Training commend
 ```
 python tools/train.py configs/resnet/resnet18_cifar_hong.py \
        --work-dir work_dirs/cifar10
@@ -35,7 +35,7 @@ Loads checkpoint by local backend from path: work_dirs/cifar10/epoch_199.pth
 ```
 
 
-## test commend
+## Test commend
 ```
 python tools/test.py configs/resnet/resnet18_cifar_hong.py  \
         work_dirs/cifar10/epoch_199.pth 
