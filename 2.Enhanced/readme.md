@@ -1,10 +1,17 @@
 # Training weight file
 
-[训练模型的配置文件 job4_cascade_rcnn_x101_32x4d_fpn_1x_coco.py ](hhttps://github.com/chg0901/openmmlab-hong/blob/main/2.Enhanced/job4_cascade_rcnn_x101_32x4d_fpn_1x_coco.py)
+[训练模型的配置文件 job4_cascade_rcnn_x101_32x4d_fpn_1x_coco.py ](https://github.com/chg0901/openmmlab-hong/blob/main/2.Enhanced/job4_cascade_rcnn_x101_32x4d_fpn_1x_coco.py)
 
 [训练好的模型文件 epoch_1.pth, google drive](https://drive.google.com/file/d/1TdJb04quMPYwJvItAin4ETKroWBXaGku/view?usp=share_link)
 
 [训练日志文件 None.log.json](https://github.com/chg0901/openmmlab-hong/blob/main/2.Enhanced/None.log.json)
+
+
+#### Results with screenshots and Gifs of the test video
+![Unprocessed video ](https://github.com/chg0901/openmmlab-hong/blob/main/2.Enhanced/57906_000718_Endzone.mp4)
+
+![processed video](https://github.com/chg0901/openmmlab-hong/blob/main/2.Enhanced/57906_000718_Endzone_fps60.mp4)
+
 
 
 # [Project JupyterNotebook with nbviewer](https://nbviewer.org/github/chg0901/openmmlab-hong/blob/main/2.Enhanced/mmdet-cascadercnn-helmet-detection-for-beginners.ipynb)
@@ -127,11 +134,6 @@ I just train the model for 1 epoch
 
 bbox_mAP_copypaste: 0.0592 -1.0000 -1.0000 0.0576 0.1108 -1.0000
 ```
-
-# Results with screenshots and Gifs of the test video
-![Unprocessed video ](https://github.com/chg0901/openmmlab-hong/blob/main/2.Enhanced/57906_000718_Endzone.mp4)
-![processed video](https://github.com/chg0901/openmmlab-hong/blob/main/2.Enhanced/57906_000718_Endzone_fps60.mp4)
-
 
 
 # Zhihu Link
