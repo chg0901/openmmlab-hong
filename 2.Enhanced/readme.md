@@ -1,4 +1,4 @@
-# Training weight file
+# Training and testing files
 
 [训练模型的配置文件 job4_cascade_rcnn_x101_32x4d_fpn_1x_coco.py ](https://github.com/chg0901/openmmlab-hong/blob/main/2.Enhanced/job4_cascade_rcnn_x101_32x4d_fpn_1x_coco.py)
 
