@@ -47,7 +47,9 @@ python tools/test.py configs/resnet/resnet18_cifar_hong.py  \
 
 # Details
 [训练模型的配置文件](https://github.com/chg0901/openmmlab-hong/blob/main/1.Basic/resnet18_b16_flower.py)
+
 [训练好的模型文件](https://github.com/chg0901/openmmlab-hong/blob/main/1.Basic/epoch_100.pth)
+
 [其他作业相关的文件]( https://github.com/chg0901/openmmlab-hong/tree/main/1.Basic)
 
 # Zhihu Link
