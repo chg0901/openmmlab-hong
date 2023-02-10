@@ -1,9 +1,13 @@
 # Training weight file
-[epoch_200.pth(google drive)](https://drive.google.com/file/d/1hKHJL4h-KFrjmKVZ-Uzh5mE-UN8eoPLu/view?usp=sharing)
+[epoch_100.pth](https://github.com/chg0901/openmmlab-hong/blob/main/1.Basic/epoch_100.pth)
+
+# Config file
+
+[resnet18_b16_flower.py](https://github.com/chg0901/openmmlab-hong/blob/main/1.Basic/resnet18_b16_flower.py)
 
 
 ------------------------------------------
-# Environment
+# environment
 ```
 mmcls    0.0.0rc5
 mmengine 0.5.0
@@ -11,10 +15,10 @@ mmcv     2.0.0rc3
 ```
 
 ------------------------------------------
-# Model: resnet18
+# model: resnet18
 `load_from ='./resnet18_batch256_imagenet_20200708-34ab8f90.pth' `
 
-## Training commend
+## training commend
 ```
 python tools/train.py configs/resnet/resnet18_cifar_hong.py \
        --work-dir work_dirs/cifar10
@@ -35,11 +39,18 @@ Loads checkpoint by local backend from path: work_dirs/cifar10/epoch_199.pth
 ```
 
 
-## Test commend
+## test commend
 ```
 python tools/test.py configs/resnet/resnet18_cifar_hong.py  \
         work_dirs/cifar10/epoch_199.pth 
 ```
+
+# Details
+[训练模型的配置文件](https://github.com/chg0901/openmmlab-hong/blob/main/1.Basic/resnet18_b16_flower.py)
+
+[训练好的模型文件](https://github.com/chg0901/openmmlab-hong/blob/main/1.Basic/epoch_100.pth)
+
+[其他作业相关的文件]( https://github.com/chg0901/openmmlab-hong/tree/main/1.Basic)
 
 # Zhihu Link
 
