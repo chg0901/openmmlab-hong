@@ -1,10 +1,12 @@
-# Training weight file
+# MMDetection Basic Assignment
+
+## Training weight file
 [latest.pth(google drive)](https://drive.google.com/file/d/13oa80uTYgj0RfjkEqqBkr9iPE-_H8kDe/view?usp=sharing)
 
-# [Project JupyterNotebook with nbviewer](https://nbviewer.org/github/chg0901/openmmlab-hong/blob/main/2.Basic/balloon_hong.ipynb)
+## [Project JupyterNotebook with nbviewer](https://nbviewer.org/github/chg0901/openmmlab-hong/blob/main/2.Basic/balloon_hong.ipynb)
 [JupyterNotebook balloon_hong.ipynb](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/balloon_hong.ipynb)
 
-# Results
+## Results
 
 |   bbox_mAP  | bbox_mAP_50 | bbox_mAP_75 |  bbox_mAP_s |  bbox_mAP_m |  bbox_mAP_l |
 | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
@@ -20,13 +22,13 @@ bbox_mAP_copypaste: 0.6838 0.7841 0.7477 0.0000 0.3219 0.8186,
 segm_mAP_copypaste: 0.6678 0.7603 0.7137 0.0000 0.2712 0.8007
 ```
 
-# Results with screenshots and Gifs of the test video
+## Results with screenshots and Gifs of the test video
 ![Unprocessed screenshot ](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/before.png)
 ![processed screenshot ](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/after.png)
 ![processed Gif 1](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/result%5B00_00_01--00_00_06%5D.gif)
 ![processed Gif 2](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/result%5B00_00_00--00_00_06%5D2.gif)
 
-# Results with test images
+## Results with test images
 ![picture1](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon/show/16335852991_f55de7958d_k.jpg)
 ![picture2](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon/show/24631331976_defa3bb61f_k.jpg)
 ![picture3](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon/show/3825919971_93fb1ec581_b.jpg)
@@ -34,7 +36,7 @@ segm_mAP_copypaste: 0.6678 0.7603 0.7137 0.0000 0.2712 0.8007
 
 
 ------------------------------------------
-# Environment
+## Environment
 ```
 TorchVision: 0.7.0
 OpenCV: 4.7.0
@@ -53,7 +55,7 @@ PyTorch: 1.6.0
 ```
 
 
-## Other details are shown in the jupyter notebook
+### Other details are shown in the jupyter notebook
 
 [训练模型的配置文件 mask_rcnn_r50_fpn_2x_coco_balloon.py ](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/mask_rcnn_r50_fpn_2x_coco_balloon.py)
 
@@ -74,7 +76,7 @@ PyTorch: 1.6.0
 [测试视频制作python文件 video.py](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/video.py)
 
 
-# Zhihu Link
+## Zhihu Link
 
 
 [OpenMMLab 实战营打卡 - 【第 4 课】目标检测与MMDetection - 知乎](https://zhuanlan.zhihu.com/p/603989451)
