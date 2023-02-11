@@ -2,6 +2,9 @@
 ## Training weight file
 [epoch_200.pth(google drive)](https://drive.google.com/file/d/1hKHJL4h-KFrjmKVZ-Uzh5mE-UN8eoPLu/view?usp=sharing)
 
+## Config file
+
+[resnet18_b16_flower.py](https://github.com/chg0901/openmmlab-hong/blob/main/1.Enhanced/resnet18_cifar_hong.py)
 
 ------------------------------------------
 ## Environment
