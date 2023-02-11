@@ -4,7 +4,7 @@
 
 ## Config file
 
-[resnet18_b16_flower.py](https://github.com/chg0901/openmmlab-hong/blob/main/1.Enhanced/resnet18_cifar_hong.py)
+[resnet18_cifar_hong.py](https://github.com/chg0901/openmmlab-hong/blob/main/1.Enhanced/resnet18_cifar_hong.py)
 
 ------------------------------------------
 ## Environment
