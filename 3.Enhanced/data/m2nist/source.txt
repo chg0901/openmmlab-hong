@@ -1,0 +1,18 @@
+(1条消息) 利用小型数据集m2nist进行语义分割——(二)分割网络框架设计_leonardohaig的博客-CSDN博客_小型语义分割数据集
+https://blog.csdn.net/leonardohaig/article/details/105597140
+(1条消息) 利用小型数据集m2nist进行语义分割——(一)数据集介绍_leonardohaig的博客-CSDN博客_语义分割小数据集
+https://blog.csdn.net/leonardohaig/article/details/105597093
+Multidigit MNIST(M2NIST) | Kaggle
+https://www.kaggle.com/datasets/farhanhubble/multimnistm2nist
+farhanhubble/udacity-connect: Udacity Connect Session at Infosys
+https://github.com/farhanhubble/udacity-connect
+udacity-connect/bottleneck.ipynb at master · farhanhubble/udacity-connect
+https://github.com/farhanhubble/udacity-connect/blob/master/bottleneck.ipynb
+farhanhubble/udacity-connect: Udacity Connect Session at Infosys
+https://github.com/farhanhubble/udacity-connect
+udacity-connect/FCN-mnist.ipynb at master · farhanhubble/udacity-connect
+https://github.com/farhanhubble/udacity-connect/blob/master/FCN-mnist.ipynb
+udacity-connect/load_pb.ipynb at master · farhanhubble/udacity-connect
+https://github.com/farhanhubble/udacity-connect/blob/master/load_pb.ipynb
+udacity-connect/segmented-generator.ipynb at master · farhanhubble/udacity-connect
+https://github.com/farhanhubble/udacity-connect/blob/master/segmented-generator.ipynb
