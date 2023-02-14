@@ -3,8 +3,8 @@
 ## Training weight file
 [iter_1200.pth(google drive)](https://drive.google.com/file/d/1rDCJrjuMwckV7nD-tWWKFtUwFhI_Nr3N/view?usp=sharing)
 
-## [Project JupyterNotebook with nbviewer](https://github.com/chg0901/openmmlab-hong/blob/main/3.Enhanced/m2nist.ipynb
-[JupyterNotebook m2nist.ipynb](https://github.com/chg0901/openmmlab-hong/blob/main/3.Enhanced/m2nist.ipynb）
+## [Project JupyterNotebook with nbviewer](https://github.com/chg0901/openmmlab-hong/blob/main/3.Enhanced/m2nist.ipynb)
+[JupyterNotebook m2nist.ipynb](https://github.com/chg0901/openmmlab-hong/blob/main/3.Enhanced/m2nist.ipynb)
 
 ## Data Source and Introduction
 
@@ -41,7 +41,7 @@ The last layer k=10 represents background and has 1s wherever there is no digit 
 
 
 Multidigit MNIST(M2NIST) | Kaggle
-https://www.kaggle.com/datasets/farhanhubble/multimnistm2nist?datasetId=37151&sortBy=dateRun&tab=profile
+https://www.kaggle.com/datasets/farhanhubble/multimnistm2nist?datasetId=37151
 
 U-net with softmax/binary_crossentropy | Kaggle
 https://www.kaggle.com/code/ryzhovdmitry/u-net-with-softmax-binary-crossentropy
@@ -50,13 +50,16 @@ M2NIST Segmentation / U-net | Kaggle
 https://www.kaggle.com/code/zhoulingyan0228/m2nist-segmentation-u-net
 
 
-一个超小型分割检测数据集 - 知乎
+**一个超小型分割检测数据集 - 知乎**
 https://zhuanlan.zhihu.com/p/95518858
-利用小型数据集m2nist进行语义分割——(一)数据集介绍_leonardohaig的博客-CSDN博客_语义分割小数据集
+
+**语义分割小数据集  leonardohaig的博客**
+
+1. 利用小型数据集m2nist进行语义分割——(一)数据集介绍  
 https://blog.csdn.net/leonardohaig/article/details/10559709
-利用小型数据集m2nist进行语义分割——(二)分割网络框架设计_leonardohaig的博客-CSDN博客_小型语义分割数据集
+2. 利用小型数据集m2nist进行语义分割——(二)分割网络框架设计
 https://blog.csdn.net/leonardohaig/article/details/105597140
-利用小型数据集m2nist进行语义分割——(三)代码编写及训练与预测_leonardohaig的博客-CSDN博客_语义分割小数据集
+3. 利用小型数据集m2nist进行语义分割——(三)代码编写及训练与预测
 https://blog.csdn.net/leonardohaig/article/details/105597159
 
 ## Results
@@ -70,9 +73,11 @@ https://blog.csdn.net/yuanjiaqi_k/article/details/126153117
 
 2. 学懂 ONNX，PyTorch 模型部署再也不怕！-阿里云开发者社区
 
-https://developer.aliyun.com/article/914229?spm=a2c6h.13262185.profile.12.68ff5b1f4XaznM
+https://developer.aliyun.com/article/914229
 
-3. MMDeploy部署实战系列【第五章】：Windows下Release x64编译mmdeploy(C++)，对TensorRT模型进行推理 - gy77 - 博客园
+3. MMDeploy部署实战系列【第五章】
+Windows下Release x64编译mmdeploy(C++)，
+对TensorRT模型进行推理 - gy77 - 博客园
 
 https://www.cnblogs.com/gy77/p/16523947.html
 
