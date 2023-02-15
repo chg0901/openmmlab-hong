@@ -45,11 +45,11 @@ segm_mAP_copypaste: 0.6678 0.7603 0.7137 0.0000 0.2712 0.8007
 ![processed Gif 2](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x_V2/result%5B00_00_00--00_00_06%5D2.gif)
 
 ## Results with test images
-![picture1](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x_V2/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon/show/16335852991_f55de7958d_k.jpg)
-![picture2](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x_V2/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon/show/24631331976_defa3bb61f_k.jpg)
-![picture3](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x_V2/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon/show/3825919971_93fb1ec581_b.jpg)
-![picture4](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x_V2/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon/show/410488422_5f8991f26e_b.jpg)
-
+![picture1](https://github.com/chg0901/openmmlab-hong/tree/main/2.Basic_mmdet3.x_V2/work_dirs/20230216_061558/show/16335852991_f55de7958d_k.jpg)
+![picture2](https://github.com/chg0901/openmmlab-hong/tree/main/2.Basic_mmdet3.x_V2/work_dirs/20230216_061558/show/24631331976_defa3bb61f_k.jpg)
+![picture3](https://github.com/chg0901/openmmlab-hong/tree/main/2.Basic_mmdet3.x_V2/work_dirs/20230216_061558/show/3825919971_93fb1ec581_b.jpg)
+![picture4](https://github.com/chg0901/openmmlab-hong/tree/main/2.Basic_mmdet3.x_V2/work_dirs/20230216_061558/show/410488422_5f8991f26e_b.jpg)
+        
 
 ------------------------------------------
 ## Environment
