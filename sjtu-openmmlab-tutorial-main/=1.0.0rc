@@ -1,0 +1,31 @@
+Looking in links: https://download.openmmlab.com/mmcv/dist/cu102/torch1.6.0/index.html
+Collecting mmcv
+  Downloading mmcv-1.7.1.tar.gz (605 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 605.4/605.4 kB 9.7 MB/s eta 0:00:00
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+Requirement already satisfied: mmcls in /home/cine/mmclassification (0.25.0)
+Requirement already satisfied: addict in /home/cine/miniconda3/envs/mmlab1/lib/python3.8/site-packages (from mmcv) (2.4.0)
+Requirement already satisfied: numpy in /home/cine/miniconda3/envs/mmlab1/lib/python3.8/site-packages (from mmcv) (1.23.5)
+Requirement already satisfied: packaging in /home/cine/miniconda3/envs/mmlab1/lib/python3.8/site-packages (from mmcv) (23.0)
+Requirement already satisfied: Pillow in /home/cine/miniconda3/envs/mmlab1/lib/python3.8/site-packages (from mmcv) (9.3.0)
+Requirement already satisfied: pyyaml in /home/cine/miniconda3/envs/mmlab1/lib/python3.8/site-packages (from mmcv) (6.0)
+Requirement already satisfied: yapf in /home/cine/miniconda3/envs/mmlab1/lib/python3.8/site-packages (from mmcv) (0.32.0)
+Requirement already satisfied: matplotlib>=3.1.0 in /home/cine/miniconda3/envs/mmlab1/lib/python3.8/site-packages (from mmcls) (3.6.3)
+Requirement already satisfied: mmcv-full<1.9.0,>=1.4.2 in /home/cine/miniconda3/envs/mmlab1/lib/python3.8/site-packages (from mmcls) (1.7.1)
+Requirement already satisfied: pyparsing>=2.2.1 in /home/cine/miniconda3/envs/mmlab1/lib/python3.8/site-packages (from matplotlib>=3.1.0->mmcls) (3.0.9)
+Requirement already satisfied: kiwisolver>=1.0.1 in /home/cine/miniconda3/envs/mmlab1/lib/python3.8/site-packages (from matplotlib>=3.1.0->mmcls) (1.4.4)
+Requirement already satisfied: cycler>=0.10 in /home/cine/miniconda3/envs/mmlab1/lib/python3.8/site-packages (from matplotlib>=3.1.0->mmcls) (0.11.0)
+Requirement already satisfied: fonttools>=4.22.0 in /home/cine/miniconda3/envs/mmlab1/lib/python3.8/site-packages (from matplotlib>=3.1.0->mmcls) (4.38.0)
+Requirement already satisfied: python-dateutil>=2.7 in /home/cine/miniconda3/envs/mmlab1/lib/python3.8/site-packages (from matplotlib>=3.1.0->mmcls) (2.8.2)
+Requirement already satisfied: contourpy>=1.0.1 in /home/cine/miniconda3/envs/mmlab1/lib/python3.8/site-packages (from matplotlib>=3.1.0->mmcls) (1.0.7)
+Requirement already satisfied: opencv-python>=3 in /home/cine/miniconda3/envs/mmlab1/lib/python3.8/site-packages (from mmcv-full<1.9.0,>=1.4.2->mmcls) (4.7.0.68)
+Requirement already satisfied: six>=1.5 in /home/cine/miniconda3/envs/mmlab1/lib/python3.8/site-packages (from python-dateutil>=2.7->matplotlib>=3.1.0->mmcls) (1.16.0)
+Building wheels for collected packages: mmcv
+  Building wheel for mmcv (setup.py): started
+  Building wheel for mmcv (setup.py): finished with status 'done'
+  Created wheel for mmcv: filename=mmcv-1.7.1-py2.py3-none-any.whl size=930716 sha256=2cf9e0be0f3ea75a931ddcbad787e47849e34d0519e2171bc69858cc14e6f1a2
+  Stored in directory: /home/cine/.cache/pip/wheels/e1/b5/26/5099957c02fa10e6d13fababcc19cf33bbf7cf590e8147d4e0
+Successfully built mmcv
+Installing collected packages: mmcv
+Successfully installed mmcv-1.7.1
