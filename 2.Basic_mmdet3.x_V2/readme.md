@@ -1,7 +1,7 @@
 # MMDetection Basic Assignment in MMDetection3.x
 
 ## Training weight file
-[epoch_24_mmdet3.x.pth (google drive)](https://drive.google.com/file/d/13PvmX7THJF2JA3iad3q0AJma0uYgCzqJ/view?usp=sharing
+[epoch_24_mmdet3.x.pth (google drive)](https://drive.google.com/file/d/13PvmX7THJF2JA3iad3q0AJma0uYgCzqJ/view?usp=sharing)
 
 ## [Project JupyterNotebook with nbviewer](https://nbviewer.org/github/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x_V2/balloon_hong_mmdet3M3.ipynb)
 [JupyterNotebook balloon_hong_mmdet3M.ipynb](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x_V2/balloon_hong_mmdet3M3.ipynb)
