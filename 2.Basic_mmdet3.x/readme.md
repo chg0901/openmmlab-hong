@@ -3,8 +3,8 @@
 ## Training weight file
 [epoch_24_mmdet3.x.pth (google drive)](https://drive.google.com/file/d/13PvmX7THJF2JA3iad3q0AJma0uYgCzqJ/view?usp=sharing)
 
-## [Project JupyterNotebook with nbviewer](https://nbviewer.org/github/chg0901/openmmlab-hong/blob/main/2.Enhanced_mmdet3.x/balloon_hong_mmdet3M.ipynb)
-[JupyterNotebook balloon_hong_mmdet3M.ipynb](https://github.com/chg0901/openmmlab-hong/blob/main/2.Enhanced_mmdet3.x/balloon_hong_mmdet3M.ipynb)
+## [Project JupyterNotebook with nbviewer](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x/balloon_hong_mmdet3M.ipynb)
+[JupyterNotebook balloon_hong_mmdet3M.ipynb](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x/balloon_hong_mmdet3M.ipynb)
 
 ## Results  **[To update]**
 
@@ -84,13 +84,13 @@ segm_mAP_copypaste: 0.6678 0.7603 0.7137 0.0000 0.2712 0.8007
 
 [训练模型的配置文件 mask_rcnn_r50_fpn_2x_coco_balloon3.py ](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x/mask_rcnn_r50_fpn_2x_coco_balloon3.py)
 
-[训练好的模型文件，latest.pth, google drive](https://drive.google.com/file/d/13oa80uTYgj0RfjkEqqBkr9iPE-_H8kDe/view?usp=sharing)
+[训练好的模型文件，epoch_24_mmdet3.x.pth (google drive)](https://drive.google.com/file/d/13PvmX7THJF2JA3iad3q0AJma0uYgCzqJ/view?usp=sharing)
 
 [特效制作后的视频文件  result.mp4](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x/result.mp4)
 
 [log文件夹](https://github.com/chg0901/openmmlab-hong/tree/main/2.Basic_mmdet3.x/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon3)
 
-[JupyterNotebook balloon_hong3.ipynb](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x/balloon_hong_mmdet3.ipynb)
+[JupyterNotebook balloon_hong3.ipynb](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x/balloon_hong_mmdet3M.ipynb)
 
 [CoCo数据集制作python文件 balloon2CoCoFormat3.py](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x/balloon2CoCoFormat3.py)
 
