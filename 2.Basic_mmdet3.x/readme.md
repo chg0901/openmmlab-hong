@@ -6,7 +6,7 @@
 ## [Project JupyterNotebook with nbviewer](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x/balloon_hong_mmdet3M.ipynb)
 [JupyterNotebook balloon_hong_mmdet3M.ipynb](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x/balloon_hong_mmdet3M.ipynb)
 
-## Results  **[To update]**
+## Test Results with MMDET3.x
 
 
 |   bbox_mAP  | bbox_mAP_50 | bbox_mAP_75 |  bbox_mAP_s |  bbox_mAP_m |  bbox_mAP_l |
@@ -17,8 +17,8 @@
 | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
 |    0.7800   |   0.8620    |    0.8620   |    0.4540   |    0.6330   |    0.8310   |
 
-^^
-||
+
+## Test Results with MMDET2.x in [2.Basic](https://github.com/chg0901/openmmlab-hong/tree/main/2.Basic)
 
 |   bbox_mAP  | bbox_mAP_50 | bbox_mAP_75 |  bbox_mAP_s |  bbox_mAP_m |  bbox_mAP_l |
 | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
@@ -41,7 +41,7 @@ segm_mAP_copypaste: 0.6678 0.7603 0.7137 0.0000 0.2712 0.8007
 
 
 
-## Results with test images MMDET3.x [show folder of test data](https://github.com/chg0901/openmmlab-hong/tree/main/2.Basic_mmdet3.x/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon3/20230212_184933/show)
+## Results with test images and MMDET3.x [show folder of test data](https://github.com/chg0901/openmmlab-hong/tree/main/2.Basic_mmdet3.x/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon3/20230212_184933/show)
 ![processed data1 ](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x/%E6%88%AA%E5%9B%BE%202023-02-12%2018-45-53.png)
 ![processed data2 ](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x/%E6%88%AA%E5%9B%BE%202023-02-12%2018-45-53.png)
 
