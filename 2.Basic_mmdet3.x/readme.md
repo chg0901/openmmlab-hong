@@ -1,18 +1,21 @@
 # MMDetection Basic Assignment in MMDetection3.x
 
 ## Training weight file
-[epoch_24_mmdet3.x.pth (google drive)](https://drive.google.com/file/d/13PvmX7THJF2JA3iad3q0AJma0uYgCzqJ/view?usp=sharing
+[epoch_24_mmdet3.x.pth (google drive)](https://drive.google.com/file/d/13PvmX7THJF2JA3iad3q0AJma0uYgCzqJ/view?usp=sharing)
 
 ## [Project JupyterNotebook with nbviewer](https://nbviewer.org/github/chg0901/openmmlab-hong/blob/main/2.Enhanced_mmdet3.x/balloon_hong_mmdet3M.ipynb)
 [JupyterNotebook balloon_hong_mmdet3M.ipynb](https://github.com/chg0901/openmmlab-hong/blob/main/2.Enhanced_mmdet3.x/balloon_hong_mmdet3M.ipynb)
 
 ## Results  **[To update]**
 
-coco/bbox_mAP: 0.7660  coco/bbox_mAP_50: 0.8820  coco/bbox_mAP_75: 0.8820  
-coco/bbox_mAP_s: 0.3530  coco/bbox_mAP_m: 0.6860  coco/bbox_mAP_l: 0.8040  
 
-coco/segm_mAP: 0.7800  coco/segm_mAP_50: 0.8620  coco/segm_mAP_75: 0.8620  
-coco/segm_mAP_s: 0.4540  coco/segm_mAP_m: 0.6330  coco/segm_mAP_l: 0.8310
+|   bbox_mAP  | bbox_mAP_50 | bbox_mAP_75 |  bbox_mAP_s |  bbox_mAP_m |  bbox_mAP_l |
+| :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
+|    0.7660   |   0.8820    |    0.8820   |    0.3530   |    0.6860   |    0.8040   |
+    
+|  segm_mAP   | segm_mAP_50 | segm_mAP_75 |  segm_mAP_s |  segm_mAP_m |  segm_mAP_l |
+| :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
+|    0.7800   |   0.8620    |    0.8620   |    0.4540   |    0.6330   |    0.8310   |
 
 ^^
 ||
@@ -34,21 +37,19 @@ segm_mAP_copypaste: 0.780 0.862 0.862 0.454 0.633 0.831
 bbox_mAP_copypaste: 0.6838 0.7841 0.7477 0.0000 0.3219 0.8186, 
 segm_mAP_copypaste: 0.6678 0.7603 0.7137 0.0000 0.2712 0.8007
 
-
-
 ```
 
-## Results with screenshots and Gifs of the test video
-![Unprocessed screenshot ](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/before.png)
-![processed screenshot ](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/after.png)
-![processed Gif 1](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/result%5B00_00_01--00_00_06%5D.gif)
-![processed Gif 2](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/result%5B00_00_00--00_00_06%5D2.gif)
 
-## Results with test images
-![picture1](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon/show/16335852991_f55de7958d_k.jpg)
-![picture2](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon/show/24631331976_defa3bb61f_k.jpg)
-![picture3](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon/show/3825919971_93fb1ec581_b.jpg)
-![picture4](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon/show/410488422_5f8991f26e_b.jpg)
+
+## Results with test images MMDET3.x [show folder of test data](https://github.com/chg0901/openmmlab-hong/tree/main/2.Basic_mmdet3.x/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon3/20230212_184933/show)
+![processed data1 ](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x/%E6%88%AA%E5%9B%BE%202023-02-12%2018-45-53.png)
+![processed data2 ](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x/%E6%88%AA%E5%9B%BE%202023-02-12%2018-45-53.png)
+
+
+![picture1](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon3/20230212_184933/show/16335852991_f55de7958d_k.jpg)
+![picture2](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon3/20230212_184933/show/24631331976_defa3bb61f_k.jpg)
+![picture3](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon3/20230212_184933/show/3825919971_93fb1ec581_b.jpg)
+![picture4](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon3/20230212_184933/show/410488422_5f8991f26e_b.jpg)
 
 
 ------------------------------------------
@@ -81,23 +82,21 @@ segm_mAP_copypaste: 0.6678 0.7603 0.7137 0.0000 0.2712 0.8007
 
 ### Other details are shown in the jupyter notebook
 
-[训练模型的配置文件 mask_rcnn_r50_fpn_2x_coco_balloon.py ](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/mask_rcnn_r50_fpn_2x_coco_balloon.py)
+[训练模型的配置文件 mask_rcnn_r50_fpn_2x_coco_balloon3.py ](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x/mask_rcnn_r50_fpn_2x_coco_balloon3.py)
 
 [训练好的模型文件，latest.pth, google drive](https://drive.google.com/file/d/13oa80uTYgj0RfjkEqqBkr9iPE-_H8kDe/view?usp=sharing)
 
-[特效制作后的视频文件  result.mp4](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/result.mp4)
+[特效制作后的视频文件  result.mp4](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x/result.mp4)
 
-[log文件夹](https://github.com/chg0901/openmmlab-hong/tree/main/2.Basic/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon)
+[log文件夹](https://github.com/chg0901/openmmlab-hong/tree/main/2.Basic_mmdet3.x/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon3)
 
-[JupyterNotebook balloon_hong.ipynb](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/balloon_hong.ipynb)
+[JupyterNotebook balloon_hong3.ipynb](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x/balloon_hong_mmdet3.ipynb)
 
-[CoCo数据集制作python文件 balloon2CoCoFormat.py](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/balloon2CoCoFormat.py)
+[CoCo数据集制作python文件 balloon2CoCoFormat3.py](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x/balloon2CoCoFormat3.py)
 
-[生成的COCO数据集json文件： train.json](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/train.json)   [val.json](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/val.json)
+[测试集预测图片文件夹](https://github.com/chg0901/openmmlab-hong/tree/main/2.Basic_mmdet3.x/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon3/20230212_184933/show)
 
-[测试集预测图片文件夹](https://github.com/chg0901/openmmlab-hong/tree/main/2.Basic/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon/show)
-
-[测试视频制作python文件 video.py](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/video.py)
+[测试视频制作python文件 video3.py](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x/video3.py)
 
 
 ## Zhihu Link
