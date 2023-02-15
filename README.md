@@ -1,9 +1,9 @@
 # openmmlab-hong
 
-This repo is for the assighment uploading of AI campu with openMMlab.
+This repo is for the assighment uploading of AI campu with openMMlab in Febr. 2023.
 
 Note:
-[sjtu-openmmlab-tutorial-main](https://github.com/chg0901/openmmlab-hong/tree/main/sjtu-openmmlab-tutorial-main)是MMCLS和MMDET的教程，修改自github上[sjtu-openmmlab-tutorial](https://github.com/wangruohui/sjtu-openmmlab-tutorial)的教程实践，十分感谢[@wangruohui](https://github.com/wangruohui)。
+[sjtu-openmmlab-tutorial-main](https://github.com/chg0901/openmmlab-hong/tree/main/sjtu-openmmlab-tutorial-main)是MMCLS和MMDET的教程，修改自github上[sjtu-openmmlab-tutorial](https://github.com/wangruohui/sjtu-openmmlab-tutorial)的教程实践，十分感谢[@wangruohui](https://github.com/wangruohui)。作业三则是主要建立[@同济子豪兄](https://github.com/TommyZihao/MMSegmentation_Tutorials)的MMSEG教程[MMSegmentation_Tutorials](https://github.com/TommyZihao/MMSegmentation_Tutorials)，感谢分享~
 
 ## Zhihu Links
 
