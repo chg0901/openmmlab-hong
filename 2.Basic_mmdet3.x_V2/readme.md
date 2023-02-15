@@ -3,10 +3,10 @@
 ## Training weight file
 [epoch_24_mmdet3.x.pth (google drive)](https://drive.google.com/file/d/13PvmX7THJF2JA3iad3q0AJma0uYgCzqJ/view?usp=sharing
 
-## [Project JupyterNotebook with nbviewer](https://nbviewer.org/github/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x/balloon_hong_mmdet3M.ipynb)
-[JupyterNotebook balloon_hong_mmdet3M.ipynb](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x/balloon_hong_mmdet3M.ipynb)
+## [Project JupyterNotebook with nbviewer](https://nbviewer.org/github/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x_V2/balloon_hong_mmdet3M3.ipynb)
+[JupyterNotebook balloon_hong_mmdet3M.ipynb](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x_V2/balloon_hong_mmdet3M3.ipynb)
 
-## Results  **[To update]**
+## Results  **[Best results]**
 
 coco/bbox_mAP: 0.7660  coco/bbox_mAP_50: 0.8820  coco/bbox_mAP_75: 0.8820  
 coco/bbox_mAP_s: 0.3530  coco/bbox_mAP_m: 0.6860  coco/bbox_mAP_l: 0.8040  
@@ -81,23 +81,24 @@ segm_mAP_copypaste: 0.6678 0.7603 0.7137 0.0000 0.2712 0.8007
 
 ### Other details are shown in the jupyter notebook
 
-[训练模型的配置文件 mask_rcnn_r50_fpn_2x_coco_balloon.py ](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x/mask_rcnn_r50_fpn_2x_coco_balloon.py)
+[训练模型的配置文件 rcnn_r50_fpn_2x_coco_balloon3_new.py ](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x_V2/mask-rcnn_r50_fpn_2x_coco_balloon3_new.py)
+[测试预训练模型的配置文件 mask-rcnn_r50_fpn_2x_cocoM.py](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x_V2/mask-rcnn_r50_fpn_2x_cocoM.py)
 
 [训练好的模型文件，latest.pth, google drive](https://drive.google.com/file/d/13oa80uTYgj0RfjkEqqBkr9iPE-_H8kDe/view?usp=sharing)
 
-[特效制作后的视频文件  result.mp4](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x/result.mp4)
+[特效制作后的视频文件  result.mp4](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x_V2/result.mp4)
 
-[log文件夹](https://github.com/chg0901/openmmlab-hong/tree/main/2.Basic_mmdet3.x/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon)
+[log ](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x_V2/work_dirs/20230216_061558/20230216_061558.log)
 
-[JupyterNotebook balloon_hong.ipynb](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x/balloon_hong.ipynb)
+[JupyterNotebook balloon_hong_mmdet3M3.ipynb](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x_V2/balloon_hong_mmdet3M3.ipynb)
 
-[CoCo数据集制作python文件 balloon2CoCoFormat.py](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x/balloon2CoCoFormat.py)
+[CoCo数据集制作python文件 balloon2CoCoFormat3.py](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x_V2/balloon2CoCoFormat3.py)
 
-[生成的COCO数据集json文件： train.json](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x/train.json)   [val.json](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/val.json)
 
-[测试集预测图片文件夹](https://github.com/chg0901/openmmlab-hong/tree/main/2.Basic_mmdet3.x/work_dirs/mask_rcnn_r50_fpn_2x_coco_balloon/show)
 
-[测试视频制作python文件 video.py](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x/video.py)
+[测试集预测图片文件夹](https://github.com/chg0901/openmmlab-hong/tree/main/2.Basic_mmdet3.x_V2/work_dirs/20230216_061558/show)
+
+[测试视频制作python文件 video3.py](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x_V2/video3.py)
 
 
 ## Zhihu Link
