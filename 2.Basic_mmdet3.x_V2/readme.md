@@ -44,6 +44,7 @@ segm_mAP_copypaste: 0.6678 0.7603 0.7137 0.0000 0.2712 0.8007
 ![processed Gif 1](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x_V2/result%5B00_00_01--00_00_06%5D.gif)
 ![processed Gif 2](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x_V2/result%5B00_00_00--00_00_06%5D2.gif)
 
+
 ## Results with test images
 ![picture1](https://github.com/chg0901/openmmlab-hong/tree/main/2.Basic_mmdet3.x_V2/work_dirs/20230216_061558/show/16335852991_f55de7958d_k.jpg)
 ![picture2](https://github.com/chg0901/openmmlab-hong/tree/main/2.Basic_mmdet3.x_V2/work_dirs/20230216_061558/show/24631331976_defa3bb61f_k.jpg)
