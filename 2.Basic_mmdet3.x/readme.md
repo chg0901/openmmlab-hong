@@ -8,6 +8,12 @@
 
 ## Test Results with MMDET3.x
 
+Performance is improved but not sure if it is caused by different versions or different config files.
+
+[2.Basic_mmdet3.x/mask_rcnn_r50_fpn_2x_coco_balloon3.py](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic_mmdet3.x/mask_rcnn_r50_fpn_2x_coco_balloon3.py)
+
+[2.Basic/mask_rcnn_r50_fpn_2x_coco_balloon.py](https://github.com/chg0901/openmmlab-hong/blob/main/2.Basic/mask_rcnn_r50_fpn_2x_coco_balloon.py)
+
 
 |   bbox_mAP  | bbox_mAP_50 | bbox_mAP_75 |  bbox_mAP_s |  bbox_mAP_m |  bbox_mAP_l |
 | :---------: | :---------: | :---------: | :---------: | :---------: | :---------: |
