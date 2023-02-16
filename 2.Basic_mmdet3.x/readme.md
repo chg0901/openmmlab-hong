@@ -2,12 +2,13 @@
 
 I have created a new folder ([https://github.com/chg0901/openmmlab-hong/edit/main/2.Basic_mmdet3.x_V2](https://github.com/chg0901/openmmlab-hong/tree/main/2.Basic_mmdet3.x_V2)) with **better recognition and code style with MMDetection3.x**.
 
-Please move to **[2.Basic_mmdet3.x_V2](https://github.com/chg0901/openmmlab-hong/tree/main/2.Basic_mmdet3.x_V2)** for better reading experience.
+Please move to **[2.Basic_mmdet3.x_V2](https://github.com/chg0901/openmmlab-hong/tree/main/2.Basic_mmdet3.x_V2)** and check [Zhihu-Semantic Segmentation with MMDetection3.x and Balloon Dataset](https://zhuanlan.zhihu.com/p/606610273) for better reading experience.
 
 Note: the weight file and figures shown in the readme.md are the same for the consistent understanding. 
 
 
 
+[使用MMDetection3.x 在Balloon气球数据集上训练并对视频进行实例分割和制作成Color Splash效果 - 知乎](https://zhuanlan.zhihu.com/p/606610273)
 
 
 
