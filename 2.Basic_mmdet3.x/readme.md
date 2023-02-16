@@ -1,5 +1,22 @@
 # MMDetection Basic Assignment in MMDetection3.x
 
+I have created a new folder ([https://github.com/chg0901/openmmlab-hong/edit/main/2.Basic_mmdet3.x_V2](https://github.com/chg0901/openmmlab-hong/tree/main/2.Basic_mmdet3.x_V2)) with **better recognition and code style with MMDetection3.x**.
+
+Please move to **[2.Basic_mmdet3.x_V2](https://github.com/chg0901/openmmlab-hong/tree/main/2.Basic_mmdet3.x_V2)** for better reading experience.
+
+Note: the weight file and figures shown in the readme.md are the same for the consistent understanding. 
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------
+
 ## Training weight file
 [epoch_24_mmdet3.x.pth (google drive)](https://drive.google.com/file/d/13PvmX7THJF2JA3iad3q0AJma0uYgCzqJ/view?usp=sharing)
 
