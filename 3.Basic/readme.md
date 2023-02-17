@@ -1,7 +1,7 @@
 # MMSegmentation Basic Assignment
 
 ## Training weight file
-[latest.pth(google drive)](https://drive.google.com/file/d/1JeUcc66zQ5MvnVNnv68kc5XK03d-IrQF/view?usp=sharing)
+[iter_300.pth (google drive)](https://drive.google.com/file/d/1JeUcc66zQ5MvnVNnv68kc5XK03d-IrQF/view?usp=sharing)
 
 ## [Project JupyterNotebook with nbviewer](https://nbviewer.org/github/chg0901/openmmlab-hong/blob/main/3.Basic/Basic3.ipynb)
 [JupyterNotebook Basic3.ipynb](https://github.com/chg0901/openmmlab-hong/blob/main/3.Basic/Basic3.ipynb)
