@@ -22,13 +22,13 @@ https://zhuanlan.zhihu.com/p/604488260
 OpenMMLab 实战营打卡 - 【第 4 课】 - 知乎
 https://zhuanlan.zhihu.com/p/603989451
 
-【OpenMMLab 实战营打卡 - 第 3 课】 - 知乎
+OpenMMLab 实战营打卡 - 【第 3 课】 - 知乎
 https://zhuanlan.zhihu.com/p/603298807
 
-【OpenMMLab 实战营打卡 - 第 2 课】 - 知乎
+OpenMMLab 实战营打卡 - 【第 2 课】 - 知乎
 https://zhuanlan.zhihu.com/p/602953563
 
-【OpenMMLab 实战营打卡 - 第 1 课】 - 知乎
+OpenMMLab 实战营打卡 - 【第 1 课】 - 知乎
 https://zhuanlan.zhihu.com/p/602647839
 
 MMSegmentation基础实验with Kaggle小鼠肾小球切片语义分割 - 知乎
